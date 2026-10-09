@@ -1,0 +1,13 @@
+{
+  "name": "trail-marker-showcase",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "トレイルマーカーの、端末の機能を使わない計算と規則の部分（テスト付き）",
+  "scripts": {
+    "test": "node --test"
+  },
+  "devDependencies": {
+    "jszip": "^3.10.2"
+  }
+}
