@@ -22,11 +22,12 @@
 - 一覧のアイコン（絵文字・写真）、背景の色・写真、ボタンの色を、好きに変えられる
 - フォルダやマップを、ファイル（`.trailmarker`）にして共有・読み込み。サーバーは使わない
 
+<img src="docs/images/03-note.jpg" alt="見本のマップに、絵文字、矢印、メモの吹き出しを置いた「表示」の画面" width="280">
+
 <!--
 📷 写真を貼る場所 2（書き込み）
-  docs/images/02-edit.png（絵文字と矢印を置いた編集の画面）、docs/images/03-note.png（メモの吹き出し）
+  docs/images/02-edit.png（絵文字と矢印を置いた編集の画面）
   ![絵文字と矢印を置いたところ](docs/images/02-edit.png)
-  ![メモの吹き出し](docs/images/03-note.png)
 -->
 
 ## 設計で考えたところ
