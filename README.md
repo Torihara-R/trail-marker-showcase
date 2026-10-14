@@ -1,7 +1,7 @@
 # トレイルマーカー (Trail Marker) — 設計とテストの紹介
 
 マップの画像に、絵文字・矢印・メモを書き込んで、自分だけのマップを作れる iPhone アプリ「トレイルマーカー」です。
-このリポジトリは、アプリの**設計と、端末の機能を使わない計算・規則の部分（テスト付き）**を紹介するためのものです。アプリ本体は、非公開のリポジトリで開発しています。
+このリポジトリは、アプリの **設計と、端末の機能を使わない計算・規則の部分（テスト付き）** を紹介するためのものです。アプリ本体は、非公開のリポジトリで開発しています。
 
 > A mobile app (Expo / React Native, JavaScript) for annotating your own map images with emoji, arrows and notes. This repository shows the app's design and its pure-logic modules with tests. The full app source is in a private repository.
 
